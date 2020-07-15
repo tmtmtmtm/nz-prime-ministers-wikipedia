@@ -33,6 +33,8 @@ class InputFile
     'cause' => 'P1534',
     'end_cause' => 'P1534',
     'endcause' => 'P1534',
+
+    'ordinal' => 'P1545'
   }
 
   def data
