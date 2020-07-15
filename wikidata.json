@@ -4,6 +4,10 @@
       "value": "Q741462",
       "label": "Henry Sewell"
     },
+    "replacedBy": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
     "statement": "Q741462$0A600563-C9EA-470F-9F6D-1954646317D1",
     "start": "1856-05-07T00:00:00Z",
     "end": "1856-05-20T00:00:00Z"
