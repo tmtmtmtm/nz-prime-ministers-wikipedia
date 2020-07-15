@@ -21,19 +21,20 @@ wdtally = wikidata.data.map { |r| r[:id] }.tally
 no_P39s = wptally.keys - wdtally.keys
 
 wikipedia.data.each do |wp|
-  # TODO: warn which ones we're skipping (but only once each)
-  next unless (wptally[wp[:id]] == 1) && (wdtally[wp[:id]] == 1)
-
-  wd = wikidata.find(wp[:id])
+  # TODO: hoist this into InputFile#find
+  matches = wikidata.find(wp[:id])
+  matches = matches.select { |wd| wd[:P580] == wp[:P580] } if matches.count > 1
+  next unless matches.count == 1
+  wd = matches.first
 
   wp.keys.select { |key| key[/^P\d+/] }.each do |property|
     wp_value = wp[property]
     next if wp_value.to_s.empty?
 
-    wd_value = wd.first[property] rescue binding.pry
+    wd_value = wd[property] rescue binding.pry
 
     if wp_value.to_s == wd_value.to_s
-      # warn "#{wd.first} matches on #{property}"
+      # warn "#{wd} matches on #{property}"
       next
     end
 
@@ -42,7 +43,7 @@ wikipedia.data.each do |wp|
       next
     end
 
-    puts [wd.first[:statement], property.to_s, wp_value].join " "
+    puts [wd[:statement], property.to_s, wp_value].join " "
   end
 end
 
