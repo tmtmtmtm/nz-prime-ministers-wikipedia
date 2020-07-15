@@ -1,0 +1,713 @@
+[
+  {
+    "item": {
+      "value": "Q741462",
+      "label": "Henry Sewell"
+    },
+    "statement": "Q741462$0A600563-C9EA-470F-9F6D-1954646317D1",
+    "start": "1856-05-07T00:00:00Z",
+    "end": "1856-05-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replaces": {
+      "value": "Q741462",
+      "label": "Henry Sewell"
+    },
+    "replacedBy": {
+      "value": "Q1360069",
+      "label": "Alfred Domett"
+    },
+    "statement": "Q1356502$FC80147A-BB80-4E34-BEBA-C92AE10DC183",
+    "start": "1856-05-20T00:00:00Z",
+    "end": "1856-06-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replaces": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replacedBy": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "statement": "Q646529$C161A9ED-2AA9-4F56-9171-3426C9E10C93",
+    "start": "1856-06-02T00:00:00Z",
+    "end": "1861-07-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "statement": "Q328232$3FE57D4F-2D3C-45FB-ABBA-53A87596315A",
+    "start": "1863-10-30T00:00:00Z",
+    "end": "1864-11-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q328269",
+      "label": "Frederick Weld"
+    },
+    "replaces": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "replacedBy": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "statement": "Q328269$48c158a6-4f54-5c12-9e6a-db9b6ced3a05",
+    "start": "1864-11-24T00:00:00Z",
+    "end": "1865-10-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q328286",
+      "label": "George Marsden Waterhouse"
+    },
+    "replaces": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replacedBy": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "statement": "Q328286$C2BC060A-9BD2-484A-84ED-ECB1DC04B2F7",
+    "start": "1872-10-11T00:00:00Z",
+    "end": "1873-03-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "replaces": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replacedBy": {
+      "value": "Q640543",
+      "label": "Daniel Pollen"
+    },
+    "statement": "q1363572$1ab03875-4163-aa68-10c3-4fdbce8bd379",
+    "start": "1873-04-08T00:00:00Z",
+    "end": "1875-07-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "replaces": {
+      "value": "Q640543",
+      "label": "Daniel Pollen"
+    },
+    "replacedBy": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "statement": "Q1363572$9c552632-4027-40b6-ea5e-1c86d53cd8d4",
+    "start": "1876-02-15T00:00:00Z",
+    "end": "1876-09-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replaces": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "replacedBy": {
+      "value": "Q76821",
+      "label": "George Grey"
+    },
+    "statement": "Q1361191$A3492424-B141-4C8E-80CD-FF8ABAAB3E1B",
+    "start": "1876-09-01T00:00:00Z",
+    "end": "1877-10-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q76821",
+      "label": "George Grey"
+    },
+    "replaces": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replacedBy": {
+      "value": "Q363671",
+      "label": "John Hall"
+    },
+    "statement": "q76821$25b9ee8d-4de6-4cb4-e02e-cc54d5c87e7b",
+    "start": "1877-01-01T00:00:00Z",
+    "end": "1879-10-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q363671",
+      "label": "John Hall"
+    },
+    "replaces": {
+      "value": "Q76821",
+      "label": "George Grey"
+    },
+    "replacedBy": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "statement": "Q363671$9772A1D0-9235-4521-B975-07FB0C57AB79",
+    "start": "1879-10-08T00:00:00Z",
+    "end": "1882-04-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "statement": "Q328232$d6807dbe-45af-70e4-6f29-753e576411ed",
+    "start": "1882-04-21T00:00:00Z",
+    "end": "1883-09-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replaces": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "replacedBy": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "statement": "Q1361191$33592283-68C2-47B2-92B1-08B0E884EF84",
+    "start": "1883-09-25T00:00:00Z",
+    "end": "1884-08-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "replaces": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replacedBy": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "statement": "Q945390$F9E96E1A-D427-49E7-B9DA-C42DFC58C9E7",
+    "start": "1884-08-16T00:00:00Z",
+    "end": "1884-08-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replaces": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "replacedBy": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "statement": "Q1361191$24976C61-4597-4115-99D0-17618F87B0D5",
+    "start": "1884-08-28T00:00:00Z",
+    "end": "1884-09-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "statement": "Q945390$834d9576-4b4b-9b0d-d900-b972739a26f9",
+    "start": "1884-09-03T00:00:00Z",
+    "end": "1887-10-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replaces": {
+      "value": "Q945390",
+      "label": "Robert Stout"
+    },
+    "replacedBy": {
+      "value": "Q980417",
+      "label": "John Ballance"
+    },
+    "statement": "Q1361191$709EF2D8-8868-470A-A4C9-C2B17777C2E3",
+    "start": "1887-10-08T00:00:00Z",
+    "end": "1891-01-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q980417",
+      "label": "John Ballance"
+    },
+    "replaces": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replacedBy": {
+      "value": "Q559640",
+      "label": "Richard Seddon"
+    },
+    "statement": "Q980417$D8DD23FB-7737-49B4-A05F-451439617EB9",
+    "start": "1891-01-24T00:00:00Z",
+    "end": "1893-04-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q559640",
+      "label": "Richard Seddon"
+    },
+    "replaces": {
+      "value": "Q980417",
+      "label": "John Ballance"
+    },
+    "replacedBy": {
+      "value": "Q446283",
+      "label": "William Hall-Jones"
+    },
+    "statement": "q559640$efec9452-4d9b-cb63-67b9-1da7825fac77",
+    "start": "1893-04-27T00:00:00Z",
+    "end": "1906-06-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replaces": {
+      "value": "Q446283",
+      "label": "William Hall-Jones"
+    },
+    "replacedBy": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "statement": "Q1371024$406f1fa9-43ad-52e0-3fdc-5a1c348a8eb7",
+    "start": "1906-08-06T00:00:00Z",
+    "end": "1912-03-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "replaces": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "statement": "Q206153$D74D67C0-7121-4950-97A9-9F4FA3B6CFAF",
+    "start": "1912-03-28T00:00:00Z",
+    "end": "1912-07-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "replaces": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "replacedBy": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "statement": "Q923806$6E451D9F-AC12-4B65-96C0-1379870BFF88",
+    "start": "1912-07-10T00:00:00Z",
+    "end": "1925-05-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "replaces": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replacedBy": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "statement": "Q731342$dca5f652-49a1-2202-ab95-c6a8a7261329",
+    "start": "1925-05-30T00:00:00Z",
+    "end": "1928-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replaces": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "replacedBy": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "statement": "Q1371024$b9d16a7b-4bed-d402-332a-ff892c2fdfea",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1930-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replaces": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "statement": "Q775773$BDFB6CBC-27E6-4D2B-926F-6AC7F307CD8B",
+    "start": "1930-05-28T00:00:00Z",
+    "end": "1935-12-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "replaces": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replacedBy": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "statement": "q1371015$5aba3346-49a4-3ba2-13e5-9b6654ec9554",
+    "start": "1935-12-06T00:00:00Z",
+    "end": "1940-03-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replaces": {
+      "value": "Q1371015",
+      "label": "Michael Joseph Savage"
+    },
+    "replacedBy": {
+      "value": "Q1390488",
+      "label": "Sidney Holland"
+    },
+    "statement": "Q1400226$072487D7-BE22-4332-97DD-7FCA2508F07B",
+    "start": "1940-03-27T00:00:00Z",
+    "end": "1949-12-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1390488",
+      "label": "Sidney Holland"
+    },
+    "replaces": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replacedBy": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "statement": "Q1390488$06E7C531-39D0-4E35-A54C-FEC1BF4B1F56",
+    "start": "1949-12-13T00:00:00Z",
+    "end": "1957-09-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "replaces": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replacedBy": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "statement": "Q721770$7E434F61-510E-4077-B978-9CBB95C727DF",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replaces": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "replacedBy": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "statement": "Q637012$AAE004BF-3AFA-4813-B653-04C67328C90A",
+    "start": "1960-12-12T00:00:00Z",
+    "end": "1972-02-07T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replaces": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replacedBy": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "statement": "Q284733$194E9668-E598-4055-9873-4B04D6BDE30A",
+    "start": "1972-02-07T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "replaces": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "statement": "Q1237120$6311E180-B769-4FEB-AF8D-564458644931",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1974-08-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4476255",
+      "label": "Hugh Watt"
+    },
+    "replaces": {
+      "value": "Q1237120",
+      "label": "Norman Kirk"
+    },
+    "replacedBy": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "statement": "Q4476255$77687bd3-4511-2a92-333e-940e3082e6fd",
+    "start": "1974-09-01T00:00:00Z",
+    "end": "1974-09-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "replaces": {
+      "value": "Q4476255",
+      "label": "Hugh Watt"
+    },
+    "replacedBy": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "statement": "Q862430$D273B0AA-7D89-4355-AFFC-0CA3915EBBFC",
+    "start": "1974-09-06T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "replaces": {
+      "value": "Q862430",
+      "label": "Bill Rowling"
+    },
+    "replacedBy": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "statement": "Q737739$362087A5-1C50-4EB5-894E-7230262E9FB3",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "replaces": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "replacedBy": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "statement": "Q367589$62DC810C-ED73-49AA-86F8-FB5B1A261464",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1989-08-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replaces": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "replacedBy": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "statement": "Q1385100$13d2d602-4c69-7834-2ac8-cf4db63323d5",
+    "start": "1989-08-08T00:00:00Z",
+    "end": "1990-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "replaces": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replacedBy": {
+      "value": "Q139785",
+      "label": "Jim Bolger"
+    },
+    "statement": "Q558647$E23C9E0A-58C3-4F35-ABDF-749BCD5046D0",
+    "start": "1990-09-04T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q139785",
+      "label": "Jim Bolger"
+    },
+    "replaces": {
+      "value": "Q558647",
+      "label": "Mike Moore"
+    },
+    "replacedBy": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "statement": "Q139785$7C74F12F-AB51-4172-823C-7F816BC3F4DD",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1997-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "replaces": {
+      "value": "Q139785",
+      "label": "Jim Bolger"
+    },
+    "replacedBy": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "Q235996$2F38BDB0-C228-4E20-AF0D-3B2C29B68E11",
+    "start": "1997-12-08T00:00:00Z",
+    "end": "1999-12-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replaces": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "replacedBy": {
+      "value": "Q57783",
+      "label": "John Key"
+    },
+    "statement": "q180383$59e36176-41c5-cf1c-7e4d-b49bd5a90b56",
+    "start": "1999-12-10T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q57783",
+      "label": "John Key"
+    },
+    "replaces": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replacedBy": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "statement": "q57783$BF6FE435-533B-46C0-83B2-C60C71B2B540",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2016-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replaces": {
+      "value": "Q57783",
+      "label": "John Key"
+    },
+    "replacedBy": {
+      "value": "Q3606816",
+      "label": "Jacinda Ardern"
+    },
+    "statement": "Q4384608$2da2279e-497e-0e28-eb88-cae7401f7348",
+    "start": "2016-12-12T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3606816",
+      "label": "Jacinda Ardern"
+    },
+    "replaces": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "statement": "Q3606816$edd56a9b-4e39-b3f0-4d3d-c59f56429ba3",
+    "start": "2017-10-26T00:00:00Z"
+  }
+]
