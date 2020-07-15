@@ -85,6 +85,14 @@
       "value": "Q328232",
       "label": "Frederick Whitaker"
     },
+    "replaces": {
+      "value": "Q1360069",
+      "label": "Alfred Domett"
+    },
+    "replacedBy": {
+      "value": "Q328269",
+      "label": "Frederick Weld"
+    },
     "statement": "Q328232$3FE57D4F-2D3C-45FB-ABBA-53A87596315A",
     "start": "1863-10-30T00:00:00Z",
     "end": "1864-11-24T00:00:00Z"
@@ -298,6 +306,14 @@
       "value": "Q328232",
       "label": "Frederick Whitaker"
     },
+    "replaces": {
+      "value": "Q363671",
+      "label": "John Hall"
+    },
+    "replacedBy": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
     "statement": "Q328232$d6807dbe-45af-70e4-6f29-753e576411ed",
     "start": "1882-04-21T00:00:00Z",
     "end": "1883-09-25T00:00:00Z"
@@ -357,6 +373,14 @@
     "item": {
       "value": "Q945390",
       "label": "Robert Stout"
+    },
+    "replaces": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
+    },
+    "replacedBy": {
+      "value": "Q1361191",
+      "label": "Harry Atkinson"
     },
     "statement": "Q945390$834d9576-4b4b-9b0d-d900-b972739a26f9",
     "start": "1884-09-03T00:00:00Z",
