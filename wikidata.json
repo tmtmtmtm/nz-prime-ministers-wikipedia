@@ -26,6 +26,7 @@
       "label": "Edward Stafford"
     },
     "statement": "Q1356502$FC80147A-BB80-4E34-BEBA-C92AE10DC183",
+    "ordinal": "2",
     "start": "1856-05-20T00:00:00Z",
     "end": "1856-06-02T00:00:00Z"
   },
@@ -43,6 +44,7 @@
       "label": "William Fox"
     },
     "statement": "Q646529$C161A9ED-2AA9-4F56-9171-3426C9E10C93",
+    "ordinal": "3",
     "start": "1856-06-02T00:00:00Z",
     "end": "1861-07-12T00:00:00Z"
   },
@@ -111,6 +113,7 @@
       "label": "Edward Stafford"
     },
     "statement": "Q328269$48c158a6-4f54-5c12-9e6a-db9b6ced3a05",
+    "ordinal": "6",
     "start": "1864-11-24T00:00:00Z",
     "end": "1865-10-16T00:00:00Z"
   },
@@ -213,6 +216,7 @@
       "label": "Daniel Pollen"
     },
     "statement": "q1363572$1ab03875-4163-aa68-10c3-4fdbce8bd379",
+    "ordinal": "8",
     "start": "1873-04-08T00:00:00Z",
     "end": "1875-07-06T00:00:00Z"
   },
@@ -264,6 +268,7 @@
       "label": "George Grey"
     },
     "statement": "Q1361191$A3492424-B141-4C8E-80CD-FF8ABAAB3E1B",
+    "ordinal": "10",
     "start": "1876-09-01T00:00:00Z",
     "end": "1877-10-13T00:00:00Z"
   },
@@ -281,6 +286,7 @@
       "label": "John Hall"
     },
     "statement": "q76821$25b9ee8d-4de6-4cb4-e02e-cc54d5c87e7b",
+    "ordinal": "11",
     "start": "1877-10-13T00:00:00Z",
     "end": "1879-10-08T00:00:00Z"
   },
@@ -349,6 +355,7 @@
       "label": "Harry Atkinson"
     },
     "statement": "Q945390$F9E96E1A-D427-49E7-B9DA-C42DFC58C9E7",
+    "ordinal": "13",
     "start": "1884-08-16T00:00:00Z",
     "end": "1884-08-28T00:00:00Z"
   },
@@ -468,6 +475,7 @@
       "label": "Thomas Mackenzie"
     },
     "statement": "Q1371024$406f1fa9-43ad-52e0-3fdc-5a1c348a8eb7",
+    "ordinal": "17",
     "start": "1906-08-06T00:00:00Z",
     "end": "1912-03-12T00:00:00Z"
   },
@@ -502,6 +510,7 @@
       "label": "Francis Bell"
     },
     "statement": "Q923806$6E451D9F-AC12-4B65-96C0-1379870BFF88",
+    "ordinal": "19",
     "start": "1912-07-10T00:00:00Z",
     "end": "1925-05-10T00:00:00Z"
   },
@@ -570,6 +579,7 @@
       "label": "Michael Joseph Savage"
     },
     "statement": "Q775773$BDFB6CBC-27E6-4D2B-926F-6AC7F307CD8B",
+    "ordinal": "22",
     "start": "1930-05-28T00:00:00Z",
     "end": "1935-12-06T00:00:00Z"
   },
@@ -604,6 +614,7 @@
       "label": "Sidney Holland"
     },
     "statement": "Q1400226$072487D7-BE22-4332-97DD-7FCA2508F07B",
+    "ordinal": "24",
     "start": "1940-03-27T00:00:00Z",
     "end": "1949-12-13T00:00:00Z"
   },
@@ -621,6 +632,7 @@
       "label": "Keith Holyoake"
     },
     "statement": "Q1390488$06E7C531-39D0-4E35-A54C-FEC1BF4B1F56",
+    "ordinal": "25",
     "start": "1949-12-13T00:00:00Z",
     "end": "1957-09-20T00:00:00Z"
   },
@@ -655,6 +667,7 @@
       "label": "Keith Holyoake"
     },
     "statement": "Q721770$7E434F61-510E-4077-B978-9CBB95C727DF",
+    "ordinal": "27",
     "start": "1957-12-12T00:00:00Z",
     "end": "1960-12-12T00:00:00Z"
   },
@@ -689,6 +702,7 @@
       "label": "Norman Kirk"
     },
     "statement": "Q284733$194E9668-E598-4055-9873-4B04D6BDE30A",
+    "ordinal": "28",
     "start": "1972-02-07T00:00:00Z",
     "end": "1972-12-08T00:00:00Z"
   },
@@ -706,6 +720,7 @@
       "label": "Hugh Watt"
     },
     "statement": "Q1237120$6311E180-B769-4FEB-AF8D-564458644931",
+    "ordinal": "29",
     "start": "1972-12-08T00:00:00Z",
     "end": "1974-08-31T00:00:00Z"
   },
@@ -740,6 +755,7 @@
       "label": "Robert Muldoon"
     },
     "statement": "Q862430$D273B0AA-7D89-4355-AFFC-0CA3915EBBFC",
+    "ordinal": "30",
     "start": "1974-09-06T00:00:00Z",
     "end": "1975-12-12T00:00:00Z"
   },
@@ -757,6 +773,7 @@
       "label": "David Lange"
     },
     "statement": "Q737739$362087A5-1C50-4EB5-894E-7230262E9FB3",
+    "ordinal": "31",
     "start": "1975-12-12T00:00:00Z",
     "end": "1984-07-26T00:00:00Z"
   },
@@ -774,6 +791,7 @@
       "label": "Geoffrey Palmer"
     },
     "statement": "Q367589$62DC810C-ED73-49AA-86F8-FB5B1A261464",
+    "ordinal": "32",
     "start": "1984-07-26T00:00:00Z",
     "end": "1989-08-08T00:00:00Z"
   },
@@ -791,6 +809,7 @@
       "label": "Mike Moore"
     },
     "statement": "Q1385100$13d2d602-4c69-7834-2ac8-cf4db63323d5",
+    "ordinal": "33",
     "start": "1989-08-08T00:00:00Z",
     "end": "1990-09-04T00:00:00Z"
   },
@@ -825,6 +844,7 @@
       "label": "Jenny Shipley"
     },
     "statement": "Q139785$7C74F12F-AB51-4172-823C-7F816BC3F4DD",
+    "ordinal": "35",
     "start": "1990-11-02T00:00:00Z",
     "end": "1997-12-08T00:00:00Z"
   },
@@ -842,6 +862,7 @@
       "label": "Helen Clark"
     },
     "statement": "Q235996$2F38BDB0-C228-4E20-AF0D-3B2C29B68E11",
+    "ordinal": "36",
     "start": "1997-12-08T00:00:00Z",
     "end": "1999-12-05T00:00:00Z"
   },
@@ -859,6 +880,7 @@
       "label": "John Key"
     },
     "statement": "q180383$59e36176-41c5-cf1c-7e4d-b49bd5a90b56",
+    "ordinal": "37",
     "start": "1999-12-10T00:00:00Z",
     "end": "2008-11-19T00:00:00Z"
   },
@@ -876,6 +898,7 @@
       "label": "Bill English"
     },
     "statement": "q57783$BF6FE435-533B-46C0-83B2-C60C71B2B540",
+    "ordinal": "38",
     "start": "2008-11-19T00:00:00Z",
     "end": "2016-12-12T00:00:00Z"
   },
@@ -893,6 +916,7 @@
       "label": "Jacinda Ardern"
     },
     "statement": "Q4384608$2da2279e-497e-0e28-eb88-cae7401f7348",
+    "ordinal": "39",
     "start": "2016-12-12T00:00:00Z",
     "end": "2017-10-26T00:00:00Z"
   },
@@ -906,6 +930,7 @@
       "label": "Bill English"
     },
     "statement": "Q3606816$edd56a9b-4e39-b3f0-4d3d-c59f56429ba3",
+    "ordinal": "40",
     "start": "2017-10-26T00:00:00Z"
   }
 ]
