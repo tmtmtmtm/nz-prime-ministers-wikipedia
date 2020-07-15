@@ -44,6 +44,40 @@
   },
   {
     "item": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replaces": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replacedBy": {
+      "value": "Q1360069",
+      "label": "Alfred Domett"
+    },
+    "statement": "Q1356502$53B10A90-6220-4035-9DDF-4BDDDD810CAB",
+    "start": "1861-07-12T00:00:00Z",
+    "end": "1862-08-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1360069",
+      "label": "Alfred Domett"
+    },
+    "replaces": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replacedBy": {
+      "value": "Q328232",
+      "label": "Frederick Whitaker"
+    },
+    "statement": "Q1360069$1F8CD6E7-F01E-4E6A-B521-3F5FD9077998",
+    "start": "1862-08-06T00:00:00Z",
+    "end": "1863-10-30T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q328232",
       "label": "Frederick Whitaker"
     },
@@ -70,6 +104,57 @@
   },
   {
     "item": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replaces": {
+      "value": "Q328269",
+      "label": "Frederick Weld"
+    },
+    "replacedBy": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "statement": "Q646529$BEAA5645-1AD7-42F6-98C8-89A48DDC8931",
+    "start": "1865-10-16T00:00:00Z",
+    "end": "1869-06-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replaces": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replacedBy": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "statement": "Q1356502$8D7365FC-4219-4A32-8DCB-C745B5094219",
+    "start": "1869-06-28T00:00:00Z",
+    "end": "1872-09-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q646529",
+      "label": "Edward Stafford"
+    },
+    "replaces": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replacedBy": {
+      "value": "Q328286",
+      "label": "George Marsden Waterhouse"
+    },
+    "statement": "Q646529$3D996CD3-1654-44F6-9478-F88111307603",
+    "start": "1872-09-10T00:00:00Z",
+    "end": "1872-10-11T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q328286",
       "label": "George Marsden Waterhouse"
     },
@@ -87,6 +172,23 @@
   },
   {
     "item": {
+      "value": "Q1356502",
+      "label": "William Fox"
+    },
+    "replaces": {
+      "value": "Q328286",
+      "label": "George Marsden Waterhouse"
+    },
+    "replacedBy": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "statement": "Q1356502$9AE38BD3-1893-4448-BB2C-6FE96DE5601A",
+    "start": "1873-03-03T00:00:00Z",
+    "end": "1873-04-08T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q1363572",
       "label": "Julius Vogel"
     },
@@ -101,6 +203,23 @@
     "statement": "q1363572$1ab03875-4163-aa68-10c3-4fdbce8bd379",
     "start": "1873-04-08T00:00:00Z",
     "end": "1875-07-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q640543",
+      "label": "Daniel Pollen"
+    },
+    "replaces": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "replacedBy": {
+      "value": "Q1363572",
+      "label": "Julius Vogel"
+    },
+    "statement": "Q640543$F163277A-1F6F-430C-9455-B6C85E3E749B",
+    "start": "1875-07-06T00:00:00Z",
+    "end": "1876-02-15T00:00:00Z"
   },
   {
     "item": {
@@ -292,6 +411,23 @@
   },
   {
     "item": {
+      "value": "Q446283",
+      "label": "William Hall-Jones"
+    },
+    "replaces": {
+      "value": "Q559640",
+      "label": "Richard Seddon"
+    },
+    "replacedBy": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "statement": "Q446283$02880540-37B5-4E50-B1A3-1A9D77D0E3AE",
+    "start": "1906-06-21T00:00:00Z",
+    "end": "1906-08-06T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q1371024",
       "label": "Joseph Ward"
     },
@@ -340,6 +476,23 @@
     "statement": "Q923806$6E451D9F-AC12-4B65-96C0-1379870BFF88",
     "start": "1912-07-10T00:00:00Z",
     "end": "1925-05-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replaces": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "replacedBy": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "statement": "Q742508$EBD9045A-7510-4CCA-9E1E-FF2E9FEA8B4F",
+    "start": "1925-05-14T00:00:00Z",
+    "end": "1925-05-30T00:00:00Z"
   },
   {
     "item": {
@@ -442,6 +595,23 @@
     "statement": "Q1390488$06E7C531-39D0-4E35-A54C-FEC1BF4B1F56",
     "start": "1949-12-13T00:00:00Z",
     "end": "1957-09-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replaces": {
+      "value": "Q1390488",
+      "label": "Sidney Holland"
+    },
+    "replacedBy": {
+      "value": "Q721770",
+      "label": "Walter Nash"
+    },
+    "statement": "Q637012$FF23E394-334A-4295-A0E0-0B708C74D024",
+    "start": "1957-09-20T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
   },
   {
     "item": {
