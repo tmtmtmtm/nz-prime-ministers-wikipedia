@@ -281,7 +281,7 @@
       "label": "John Hall"
     },
     "statement": "q76821$25b9ee8d-4de6-4cb4-e02e-cc54d5c87e7b",
-    "start": "1877-01-01T00:00:00Z",
+    "start": "1877-10-13T00:00:00Z",
     "end": "1879-10-08T00:00:00Z"
   },
   {
@@ -702,8 +702,8 @@
       "label": "Jack Marshall"
     },
     "replacedBy": {
-      "value": "Q862430",
-      "label": "Bill Rowling"
+      "value": "Q4476255",
+      "label": "Hugh Watt"
     },
     "statement": "Q1237120$6311E180-B769-4FEB-AF8D-564458644931",
     "start": "1972-12-08T00:00:00Z",
