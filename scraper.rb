@@ -26,6 +26,11 @@ end
 
 # Each officeholder in the list
 class HolderItem < Scraped::HTML
+  field :ordinal do
+    # Only want simple integer versions
+    ordinal_text if ordinal_text.to_s == ordinal_text.to_i.to_s
+  end
+
   field :id do
     name_cell.css('a/@wikidata').map(&:text).first
   end
@@ -68,6 +73,10 @@ class HolderItem < Scraped::HTML
     end_date_cell.text.tidy
   end
 
+  def ordinal_text
+    ordinal_cell.text.tidy
+  end
+
   def table_headings
     # don't cache, as there may be multiple tables with different layouts
     noko.xpath('parent::table//tr[.//th[contains(., "Term of office")]]//th').map(&:text).map(&:tidy)
@@ -79,6 +88,10 @@ class HolderItem < Scraped::HTML
 
   def name_cell
     tds[columns_headed('Name').first]
+  end
+
+  def ordinal_cell
+    tds[columns_headed('No.').last]
   end
 
   def start_date_cell
